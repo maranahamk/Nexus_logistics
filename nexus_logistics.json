@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "trackingId": "NEX-1049-8821",
+    "senderName": "Marcus Vance",
+    "receiverName": "Sarah Jenkins",
+    "origin": "New York, USA",
+    "destination": "Chicago, USA",
+    "status": "In Transit",
+    "currentLat": 41.2,
+    "currentLng": -81.5
+  },
+  {
+    "id": 2,
+    "trackingId": "NEX-9847-2931",
+    "senderName": "Elena Rostova",
+    "receiverName": "Hiroshi Tanaka",
+    "origin": "San Francisco, CA",
+    "destination": "Tokyo, Japan",
+    "status": "Delivered",
+    "currentLat": 35.6762,
+    "currentLng": 139.6503
+  },
+  {
+    "id": 3,
+    "trackingId": "NEX-5512-3094",
+    "senderName": "Claire DuPont",
+    "receiverName": "David Okonjo",
+    "origin": "London, UK",
+    "destination": "Lagos, Nigeria",
+    "status": "In Transit",
+    "currentLat": 6.5244,
+    "currentLng": 3.3792
+  },
+  {
+    "id": 4,
+    "trackingId": "NEX-7785-3295",
+    "senderName": "Alice Johnson",
+    "receiverName": "Bob Williams",
+    "origin": "Boston, MA",
+    "destination": "Seattle, WA",
+    "status": "In Transit",
+    "currentLat": 40.7128,
+    "currentLng": -74.006
+  },
+  {
+    "id": 5,
+    "trackingId": "NEX-1704-5255",
+    "senderName": "Daniel Miller",
+    "receiverName": "Sophia Laurent",
+    "origin": "Dallas, TX",
+    "destination": "Miami, FL",
+    "status": "In Transit",
+    "currentLat": 40.7128,
+    "currentLng": -74.006
+  }
+]

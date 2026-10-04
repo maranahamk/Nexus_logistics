@@ -1,0 +1,8 @@
+{
+  "name": "NEXUS_LOGISTICS",
+  "description": "Global freight forwarding, real-time cargo tracking, Air Waybill generation, and Paystack-integrated logistics portal with .run routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
